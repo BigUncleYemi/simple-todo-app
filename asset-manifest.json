@@ -1,0 +1,14 @@
+{
+  "main.css": "/simple-todo-app/static/css/main.dc283808.chunk.css",
+  "main.js": "/simple-todo-app/static/js/main.87135532.chunk.js",
+  "main.js.map": "/simple-todo-app/static/js/main.87135532.chunk.js.map",
+  "static/js/1.61b63230.chunk.js": "/simple-todo-app/static/js/1.61b63230.chunk.js",
+  "static/js/1.61b63230.chunk.js.map": "/simple-todo-app/static/js/1.61b63230.chunk.js.map",
+  "runtime~main.js": "/simple-todo-app/static/js/runtime~main.b6b46e5f.js",
+  "runtime~main.js.map": "/simple-todo-app/static/js/runtime~main.b6b46e5f.js.map",
+  "static/media/logo.svg": "/simple-todo-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.dc283808.chunk.css.map": "/simple-todo-app/static/css/main.dc283808.chunk.css.map",
+  "index.html": "/simple-todo-app/index.html",
+  "precache-manifest.54f99bbbabdea04bda382ec15f97fafa.js": "/simple-todo-app/precache-manifest.54f99bbbabdea04bda382ec15f97fafa.js",
+  "service-worker.js": "/simple-todo-app/service-worker.js"
+}
